@@ -1,0 +1,5 @@
+from docker folder run cmd.
+
+C:\>docker-compolse up
+
+it will startt all application
